@@ -1,0 +1,7 @@
+{
+  "name": "District Revenue Collector",
+  "description": "An offline-first, secure revenue collection application for district assemblies to collect market tolls, stall fees, and lorry park charges via Mobile Money or Cash.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
